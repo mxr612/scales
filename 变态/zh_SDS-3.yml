@@ -1,0 +1,33 @@
+title: 性困扰量表简版
+tag: 变态
+abstract: 性痛苦是一个在临床和研究中日益受到关注的问题。尽管已有性痛苦量表（SDS），但其较长的篇幅可能在一些情况下使用不便。为了满足快速筛查和评估的需求，研究人员开发了 SDS 的短版形式，即 SDS-3。
+instructions: |
+    以下列出了人们对性的一些感受和问题。 
+    
+    请仔细阅读每一项，并选择最能描述在过去30天内，这个问题困扰您或给您带来痛苦的频率  
+      
+    您多久会觉得自己……
+items:
+    1: 对性生活感到困扰？ 
+    2: 因性问题而感到自卑？ 
+    3: 在性方面感到担忧？ 
+options:
+    1: 从不
+    2: 很少
+    3: 有时
+    4: 经常
+    5: 总是
+subscales:
+    总分: [1,2,3]
+descriptions: |
+    译者：Lijun Chen (t05097@fzu.edu.cn)
+
+    References: 
+
+    Beaton, D. E., Bombardier, C., Guillemin, F., & Ferraz, M. B. (2000). Guidelines for the process of cross-cultural adaptation of self-report measures. Spine, 25(24), 3186–3191.
+
+    Bőthe, B., Koós, M., Nagy, L., Kraus, S. W., Potenza, M. N., & Demetrovics, Z. (2021). International Sex Survey: Study protocol of a large, cross-cultural collaborative study in 45 countries. Journal of Behavioral Addictions, 10(3), 632-645. https://doi.org/10.1556/2006.2021.00063  
+
+    Derogatis, L. R.,  Rosen, R., Leiblum, S., Burnett, A., & Heiman, J. (2002). The Female Sexual Distress Scale (FSDS): Initial validation of a standardized scale for assessment of sexually related personal distress in women. Journal of Sex & Marital Therapy, 28(4), 317–330. https://doi.org/10.1080/00926230290001448 
+    
+    Pâquet, M., Rosen, N. O., Steben, M., Mayrand, M. H., Santerre-Baillargeon, M., & Bergeron, S. (2018). Daily anxiety and depressive symptoms in Couples coping with Vulvodynia: Associations with women’s pain, women’s sexual function, and both partners’ sexual distress. Journal of Pain, 19(5), 552–561. https://doi.org/10.1016/j.jpain.2017.12.264 

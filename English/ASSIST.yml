@@ -1,0 +1,37 @@
+title: The Alcohol, Smoking and Substance Involvement Screening Test
+tag: English Scales
+abstract: 
+instructions: |
+    In the past 3 months, how often have you used the following substances?
+    
+    Some of the substances listed may be prescribed by a doctor (like amphetamines, sedatives, pain medications). We will not record medications that are used as prescribed by your doctor. However, if you have taken such medications for reasons other than prescription, or taken them more frequently or at higher doses than prescribed, please let us know.
+items:
+    1: Tobacco products (cigarettes, chewing tobacco, cigars, etc.) 
+    2: Alcoholic beverages (beer, wine, spirits, etc.) 
+    3: Cannabis (marijuana, pot, grass, hash, etc.) 
+    4: Cocaine (coke, crack, etc.) 
+    5: Amphetamine type stimulants (speed, diet pills, ecstasy, etc.) 
+    6: Inhalants (nitrous, glue, petrol, paint thinner, etc.) 
+    7: Sedatives or Sleeping Pills (Valium, Serepax, Rohypnol, etc.) 
+    8: Hallucinogens (LSD, acid, mushrooms, PCP, Special K, etc.) 
+    9: Opioids (heroin, morphine, methadone, codeine, etc.) 
+    10: "Other, please specify:"
+options:
+    1: Never
+    2: Once or twice
+    3: Monthly
+    4: Weekly
+    5: Daily or almost daily
+subscales:
+    总分: [1,2,3, 4, 5, 6, 7, 8, 9, 10]
+descriptions: |
+    References: 
+
+    Beaton, D. E., Bombardier, C., Guillemin, F., & Ferraz, M. B. (2000). Guidelines for the process of cross-cultural adaptation of self-report measures. Spine, 25(24), 3186–3191.
+
+    Bőthe, B., Koós, M., Nagy, L., Kraus, S. W., Potenza, M. N., & Demetrovics, Z. (2021). International Sex Survey: Study protocol of a large, cross-cultural collaborative study in 45 countries. Journal of Behavioral Addictions, 10(3), 632-645. https://doi.org/10.1556/2006.2021.00063  
+
+    Humeniuk, R., Henry-Edwards, S., Ali, R., Poznyak, V., Monteiro, M. G., & World Health Organization. (2010). The alcohol, smoking and substance involvement screening test (ASSIST)_ manual for use in primary care. World Health Organization. https://www.who.int/publications/i/item/978924159938-2\
+
+    Reference of the validation paper written from the International Sex Survey data will be added here.
+

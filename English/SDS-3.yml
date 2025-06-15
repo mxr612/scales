@@ -1,0 +1,32 @@
+title: The short version of the Sexual Distress Scale
+tag: English Scales
+abstract: Sexual pain is an urgent concern in clinical and research settings. Although the Sexual Pain Scale (SDS) exists, its length may be inconvenient to use in certain situations. To meet the need for rapid relief and assessment, researchers developed a short version of the SDS, the SDS-3.
+instructions: |
+    Below is a list of feelings and problems that people sometimes have concerning their sexuality.      
+    Please read each item carefully, and select the answer option that best describes how often that the problem has bothered you or caused you distress during the past 30 days.     
+
+    How often did you feel...   
+items:
+    1: Distressed about your sex life? 
+    2: Inferior because of sexual problems? 
+    3: Worried about sex? 
+options:
+    1: Never
+    2: Rarely
+    3: Occasionally
+    4: Frequently
+    5: Always
+subscales:
+    总分: [1,2,3]
+descriptions: |
+    References: 
+
+    Beaton, D. E., Bombardier, C., Guillemin, F., & Ferraz, M. B. (2000). Guidelines for the process of cross-cultural adaptation of self-report measures. Spine, 25(24), 3186–3191.
+
+    Bőthe, B., Koós, M., Nagy, L., Kraus, S. W., Potenza, M. N., & Demetrovics, Z. (2021). International Sex Survey: Study protocol of a large, cross-cultural collaborative study in 45 countries. Journal of Behavioral Addictions, 10(3), 632-645. https://doi.org/10.1556/2006.2021.00063  
+
+    Derogatis, L. R.,  Rosen, R., Leiblum, S., Burnett, A., & Heiman, J. (2002). The Female Sexual Distress Scale (FSDS): Initial validation of a standardized scale for assessment of sexually related personal distress in women. Journal of Sex & Marital Therapy, 28(4), 317–330. https://doi.org/10.1080/00926230290001448 
+    
+    Pâquet, M., Rosen, N. O., Steben, M., Mayrand, M. H., Santerre-Baillargeon, M., & Bergeron, S. (2018). Daily anxiety and depressive symptoms in Couples coping with Vulvodynia: Associations with women’s pain, women’s sexual function, and both partners’ sexual distress. Journal of Pain, 19(5), 552–561. https://doi.org/10.1016/j.jpain.2017.12.264 
+
+
